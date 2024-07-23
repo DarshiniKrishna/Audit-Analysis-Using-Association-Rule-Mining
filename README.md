@@ -3,7 +3,7 @@
 Applied association rule mining to enhance fraud detection and ensure compliance with financial control policies in the write-off process.
 
 ### Key features: 
-Roles of individuals involved in sign-offs ((clerks, managers, financial controllers), transaction amounts, dates.
+Roles of individuals (clerks, managers, financial controllers) involved in sign-offs, transaction amounts, and dates.
 
 ## Applying Association Rule Mining:
 ### Group Data: 
