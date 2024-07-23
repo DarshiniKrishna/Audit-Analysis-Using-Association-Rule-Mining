@@ -17,7 +17,6 @@ Lift: Frequency of the combination occurring compared to random chance.
 ### Identifying Irregularities:
 Detected high-support, high-confidence, and high-lift patterns, indicating strong associations between certain individuals and write-offs.
 Notable finding: Frequent high-value write-offs authorized by the same combination of clerks and managers, suggesting potential collusion.
-Review and Investigation:
 
 ### Investigated flagged transactions to ensure adherence to policy:
 For amounts >$5,000: Required one clerk, one manager, and one financial controller.
