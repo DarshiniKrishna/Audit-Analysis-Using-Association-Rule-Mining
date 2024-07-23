@@ -1,4 +1,4 @@
-# Audit-Analysis-Using-Association-Rule-Mining
+# Audit Analysis Using Association Rule Mining
 
 Applied association rule mining to enhance fraud detection and ensure compliance with financial control policies in the write-off process.
 
