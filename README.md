@@ -1,4 +1,4 @@
-# Audit Analysis Using Association Rule Mining
+# Write-off Control Analysis using Association Rule Mining
 
 Applied association rule mining to enhance fraud detection and ensure compliance with financial control policies in the write-off process.
 
@@ -28,3 +28,9 @@ Strengthened internal controls and monitoring systems to flag unusual patterns i
 ## Snippet
 
 ![Example Image](https://github.com/DarshiniKrishna/Audit-Analysis-Using-Association-Rule-Mining/blob/e23a2ebe7526ec943bf94bf4357ed0d411ead0b7/association%20rule_audit%20writeoff.png)
+
+# Audit Analysis Using Association Rule Mining
+
+## Snippet 
+
+![Example Image](https://github.com/DarshiniKrishna/Audit-Analysis-Using-Association-Rule-Mining/blob/676bd761bb9fa52c6fd073fbd40f0123f7bb0fb9/association%20rule_use%20cases.png)
