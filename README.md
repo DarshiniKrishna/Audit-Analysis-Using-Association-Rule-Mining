@@ -1,3 +1,11 @@
+# Association rule mining applied to accounting use cases 
+
+Association rule mining in accounting uncovers hidden patterns within large datasets, enhancing fraud detection, compliance, and decision-making. By identifying frequent itemsets and associations, accountants can detect unusual transaction patterns, non-compliant expense claims, non-standard revenue recognition, and credit risk behaviours. This technique optimizes inventory management, audit sampling, supplier payments, customer purchases, cost allocations, payroll transactions, and compliance with travel, entertainment, and tax policies. It also improves capital expenditure decisions, depreciation calculations, procurement compliance, intercompany transactions, and cash flow management. Overall, association rule mining ensures accuracy and compliance across various accounting processes.
+
+## Snippet 
+
+![Example Image](https://github.com/DarshiniKrishna/Audit-Analysis-Using-Association-Rule-Mining/blob/676bd761bb9fa52c6fd073fbd40f0123f7bb0fb9/association%20rule_use%20cases.png)
+
 # Write-off Control Analysis using Association Rule Mining
 
 Applied association rule mining to enhance fraud detection and ensure compliance with financial control policies in the write-off process.
@@ -29,8 +37,4 @@ Strengthened internal controls and monitoring systems to flag unusual patterns i
 
 ![Example Image](https://github.com/DarshiniKrishna/Audit-Analysis-Using-Association-Rule-Mining/blob/e23a2ebe7526ec943bf94bf4357ed0d411ead0b7/association%20rule_audit%20writeoff.png)
 
-# Audit Analysis Using Association Rule Mining
 
-## Snippet 
-
-![Example Image](https://github.com/DarshiniKrishna/Audit-Analysis-Using-Association-Rule-Mining/blob/676bd761bb9fa52c6fd073fbd40f0123f7bb0fb9/association%20rule_use%20cases.png)
